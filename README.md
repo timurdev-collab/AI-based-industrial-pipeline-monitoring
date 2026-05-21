@@ -57,6 +57,35 @@ visualizations/     -> graphs and monitoring outputs
 - Digital twin simulation
 - Predictive failure forecasting
 
+- ## Results & Model Performance
+
+The AI-based anomaly detection system was evaluated using simulated SCADA pipeline operational data.
+
+### Key Outcomes
+- Successfully processed 1000+ pipeline sensor records
+- Implemented anomaly detection using LSTM neural networks
+- Generated confusion matrix evaluation visualizations
+- Demonstrated predictive maintenance workflow concepts
+- Applied data preprocessing and normalization techniques
+- Built an industrial digital twin monitoring prototype
+
+## Visualization Samples
+
+### SCADA Evaluation Matrix
+![SCADA Matrix](visualizations/scada-evaluation-matrix.png)
+
+### Confusion Matrix Results
+![Confusion Matrix](visualizations/confusion-matrix-results.png)
+
+## Future Improvements
+
+- Integrate real-time IoT sensor streaming
+- Deploy the model using Flask or FastAPI
+- Add dashboard visualization using Streamlit
+- Improve anomaly detection accuracy
+- Add predictive failure forecasting
+- Connect with industrial SCADA systems
+
 ## Author
 
 Timur Hasanov
