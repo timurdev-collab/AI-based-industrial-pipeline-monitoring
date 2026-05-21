@@ -60,4 +60,3 @@ visualizations/     -> graphs and monitoring outputs
 ## Author
 
 Timur Hasanov
-MSc Artificial Intelligence
