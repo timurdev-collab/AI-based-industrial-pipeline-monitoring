@@ -90,6 +90,6 @@ The AI-based anomaly detection system was evaluated using simulated SCADA pipeli
 
 Timur Hasanov
 
-## AWS + Jira Cloud planning
+## AWS architecture planning
 
-See [AWS architecture and Jira Cloud backlog](docs/AWS_JIRA_ROADMAP.md). These are planning resources, **not** a claim of live AWS infrastructure or an active Jira Cloud board.
+See [AWS architecture roadmap](docs/AWS_JIRA_ROADMAP.md). This is planning documentation, not a claim of live AWS infrastructure.
